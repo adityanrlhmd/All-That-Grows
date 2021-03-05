@@ -361,7 +361,7 @@ main .product .list-product .atas {
 
 main .product .list-product .atas .card {
   width: 200px;
-  margin-right: 50px;
+  margin-right: 60px;
 }
 
 main .product .list-product .atas .card a img {
@@ -419,7 +419,7 @@ main .product .list-product .tengah {
 
 main .product .list-product .tengah .card {
   width: 200px;
-  margin-right: 50px;
+  margin-right: 60px;
 }
 
 main .product .list-product .tengah .card a img {
@@ -476,7 +476,7 @@ main .product .list-product .bawah {
 
 main .product .list-product .bawah .card {
   width: 200px;
-  margin-right: 50px;
+  margin-right: 60px;
 }
 
 main .product .list-product .bawah .card a img {
@@ -980,7 +980,7 @@ footer .bawah-footer .atas-bawah-footer .kanan-atas-bawah-footer .link-footer {
   text-decoration: none;
   height: 60px;
   letter-spacing: .6px;
-  padding: 18.5px 15px;
+  padding: 20px 15px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
